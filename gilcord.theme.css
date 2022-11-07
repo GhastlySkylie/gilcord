@@ -221,3 +221,31 @@
     background-color: #202225;
     height: 7.50vh;
 }
+
+.PostReplyQuoteButtons-option, .PostReplyQuoteButtons-option:hover, .PostReplyQuoteButtons-option:visited, .PostReplyQuoteButtons-option:active, .PostReplyQuoteButtons-option:focus{
+    color: #00b0f4;
+}
+
+.UserSettingsEmailPage-select-button, .UserSettingsEmailPage-select-button:hover, .UserSettingsEmailPage-select-button:visited, .UserSettingsEmailPage-select-button:active, .UserSettingsEmailPage-select-button:focus{
+    color: #00b0f4;
+}
+
+.CheckboxV2-box{
+    background: #3ba55d;
+}
+
+.RouteLink-linkify, .RouteLink-linkify:hover, .RouteLink-linkify:visited, .RouteLink-linkify:active, .RouteLink-linkify:focus{
+    color: #00b0f4;
+}
+
+.ItemManagerColumnHeader-container-sortable.ItemManagerColumnHeader-active{
+    color: #00b0f4;
+}
+
+.ItemManagerColumnHeader-container-sortable.ItemManagerColumnHeader-active .ItemManagerColumnHeader-icon{
+    fill: #00b0f4;
+}
+
+.WindowsTitleBar-container{
+    background: #202225;
+}
