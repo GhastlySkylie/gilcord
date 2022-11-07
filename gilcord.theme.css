@@ -85,6 +85,7 @@
 .TransientMenu-container-style-default{
     background-color: #18191c;
     --bg-color: #18191c;
+    border: 0px;
 }
 
 .ChatMessageThread-container{
@@ -248,4 +249,93 @@
 
 .WindowsTitleBar-container{
     background: #202225;
+}
+
+.MediaUploaderDropImageInstructions-browse-link, .MediaUploaderDropImageInstructions-browse-link:hover, .MediaUploaderDropImageInstructions-browse-link:visited, .MediaUploaderDropImageInstructions-browse-link:active, .MediaUploaderDropImageInstructions-browse-link:focus{
+    color: #00b0f4;
+}
+
+.ChatV2PinnedMessage-message-wrapper{
+    background: #36393f;
+    border: 1px solid #202225;
+}
+
+.ChannelPinnedMessages-header{
+    background-color: #202225;
+}
+
+.ChannelPinnedMessages-container{
+    background: #202225;
+}
+
+.TextInputWithLabel-input-content{
+    background-color: #202225;
+}
+
+.RadioOptionPanel-container-selection-border.RadioOptionPanel-container-selected{
+    border: 0px;
+}
+
+.RadioOptionPanel-container{
+    background: #2f3136;
+}
+
+.TextAreaInput-text-area:focus{
+    border: 0px;
+    background-color: #202225;
+}
+
+.TextAreaInput-text-area{
+    background-color: #202225;
+    border: 0px;
+}
+
+.TextInputWithLabel-input-element{
+    padding-bottom: 5px;
+    padding-left: 3px;
+}
+
+.TeamSettingsWebhookPage-link, .TeamSettingsWebhookPage-link:hover, .TeamSettingsWebhookPage-link:visited, .TeamSettingsWebhookPage-link:active, .TeamSettingsWebhookPage-link:focus{
+    color: #00b0f4;
+}
+
+.CopyableTextbox-container-type-text .CopyableTextbox-copy-button{
+    color: #00b0f4;
+}
+
+.UserCTAPanel-container{
+    border: 0px;
+}
+
+.UserCTAPanel-container-style-bordered .UserCTAPanel-contents:not(.UserCTAPanel-container-disabled){
+    background-color: #202225;
+}
+
+.InlineTextLink-container{
+    color: #00b0f4;
+}
+
+.FormConfirmButtonV2-container.FormConfirmButtonV2-container-type-white, .FormConfirmButtonV2-container-desktop.FormConfirmButtonV2-container-type-white.FormConfirmButtonV2-container-hollow:hover{
+    border: 0px;
+    background-color: #5865f2;
+}
+
+.Editor-container{
+    background-color: #40444b;
+}
+
+.BlockQuoteContainerRenderer{
+    background-color: #2f3136;
+}
+
+.OpenGraphEmbed-content{
+    background-color:#2C2F33;
+}
+
+.OpenGraphEmbedContent-container{
+    overflow: hidden;
+    padding: 0.5rem 1rem 1rem 0.75rem;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
 }
