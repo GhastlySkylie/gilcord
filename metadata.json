@@ -1,0 +1,9 @@
+{
+   "id": "gilcord",
+   "name": "Discord for Guilded",
+   "description": "Makes Guilded look like Discord",
+   "author": "8412868d",
+   "contributors": [],
+   "version": "latest",
+   "files": "gilcord.theme.css"
+}
